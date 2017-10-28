@@ -25,9 +25,14 @@ Regular feedback is highly encouraged. Feedbacks should inspire improvement. Men
 The objectives of the mentorship should be listed down here. They can be customized over time by the mentor
 or the mentee's preferences.
 
-- [ ] Software development processes
+- [ ] Software development processes and Tools
     - [ ] Version control
-    - [ ] SLDC processes (Agile, Waterfall)
+        - [ ] Git
+        - [ ] Github
+    - [ ] SLDC processes
+        - [ ] Waterfall
+        - [ ] Agile
+        - [ ] Types of testing
     - [ ] IRC
     - [ ] Bug tracker
     - [ ] Linux
@@ -35,6 +40,7 @@ or the mentee's preferences.
 
 - [ ] How Software Deployment works?
     - [ ] Hosting solutions
+    - [ ] Setup DNS
     - [ ] Deploying on AWS
 
 - [ ] Learning Resources
@@ -44,19 +50,29 @@ or the mentee's preferences.
 
 - [ ] Learning a Web Framework
     - [ ] Ruby on Rails
+        - [ ] Ruby fundamentals
+        - [ ] Rails internal design overview
     - [ ] Decide major project
-    - [ ] Learn about MVC
     - [ ] Complete project development.
 
 - [ ] Understanding Scripting
     - [ ] Decide minor project for scripting and automation.
     - [ ] Learn about job scheduling
+        - [ ] Celery
     - [ ] Complete project development.
 
 - [ ] Design fundamentals
     - [ ] Databases
+        - [ ] RDBMS
+        - [ ] NoSql
+        - [ ] GraphDB
     - [ ] Architectures
+        - [ ] SaaS
+        - [ ] MVC
+        - [ ] Microservices
     - [ ] Big data technologies
+        - [ ] Hadoop / Spark
+        - [ ] Cassandra
 
 - [ ] Creating presence in Tech world
     - [ ] Blogging
