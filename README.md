@@ -85,6 +85,11 @@ or the mentee's preferences.
 Track weekly progress in this section according to above mentioned goals.
 
 - ### Week 1 
-    - [ ] Task 1
-    - [ ] Task 2
-    - [ ] Task 3
+    - [ ] Git Advanced
+        - [ ] [Stash, Rebase etc.](https://www.atlassian.com/git/tutorials/advanced-overview)
+    - [ ] Learning Ruby fundamentals
+        - [ ] [Cover up basic syntax of ruby like Strings, Loops, Classes, Objects.](https://www.tutorialspoint.com/ruby/)
+        - [ ] Write program in ruby for:
+            - [ ] [Find if a string is palingdrome.](http://www.geeksforgeeks.org/c-program-check-given-string-palindrome/)
+            - [ ] [Print a two dimensional matrix in spiral fashion.](http://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/) 
+    - [ ] Decide major project: What application will you like to build in Ruby on Rails.
